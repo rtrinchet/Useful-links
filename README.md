@@ -1,3 +1,12 @@
+# Linkedin links
+
+* [31 Tips](https://www.themuse.com/advice/the-31-best-linkedin-profile-tips-for-job-seekers)
+
+* [Udacity tips](https://career-resource-center.udacity.com/linkedin-github-profiles/how-to-stand-out-on-linkedin)
+
+* [Course](https://courses.breakinto.tech/courses/take/linkedin/lessons/1339411-overview-the-5-steps-to-finding-a-job-on-linkedin)
+
+
 # NLP Nanodegree links
 
 ## 1. PoS project
